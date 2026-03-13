@@ -41,5 +41,5 @@ This project analyzes UPI transaction data using SQL to understand the growth of
 
 ## Author
 
-Your Name
+DHINAGARAN V
 Aspiring Data Analyst
